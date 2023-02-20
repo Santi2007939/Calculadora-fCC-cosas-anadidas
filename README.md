@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Calculadora-fCC-cosas-anadidas
 Calculadora del curso de fCC acerca de React, añadi unas cosas
 >>>>>>> 56acee45e6b234184ac5eddc51fa2351548bf2b4
+=======
+# Calculadora-fCC-cosas-anadidas
+Calculadora del curso de fCC acerca de React, añadi unas cosas
+>>>>>>> 79089064fd690caa778f38a67cbedaf085cb29ff
